@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "561605722736",
+    "firebase_url": "https://flirone-af0a4.firebaseio.com",
+    "project_id": "flirone-af0a4",
+    "storage_bucket": "flirone-af0a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561605722736:android:25dbec6ba273787e",
+        "android_client_info": {
+          "package_name": "com.andy6804tw.flirone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561605722736-d7n1g14425kanr7o7da26rn3855rsll6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andy6804tw.flirone",
+            "certificate_hash": "40e7f53bbbae29e198346711ce35daf022ff9cec"
+          }
+        },
+        {
+          "client_id": "561605722736-rkll4no8hn6k35tk2r28bl66of9nisqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWZqsLWrbtq2ogop8jnp2rb-W3JZT5TTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561605722736-rkll4no8hn6k35tk2r28bl66of9nisqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
