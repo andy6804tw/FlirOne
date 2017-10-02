@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">FlirOne</string>
+    <string name="change_view">Change View \u21EA</string>
+    <string name="change_view_retract">Change View \u21B2</string>
+    <string name="connectSim">Toggle Sim</string>
+    <string name="performTuning">Tune</string>
+    <string name="rotate_on">\u21BA</string>
+    <string name="rotate_off">\u21BB</string>
+    <string name="battery_label">Batt:</string>
+    <string name="txtTuning">Tuning...</string>
+    <string name="startNetStream">Stream</string>
+    <string name="stopNetStream">Disconnect</string>
+    <string name="changeTime">Time set</string>
 </resources>

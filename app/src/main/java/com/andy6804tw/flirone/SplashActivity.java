@@ -54,7 +54,7 @@ public class SplashActivity extends AppCompatActivity {
                 //Log.e("Data4", "成功!");
             }
         }else{
-            startActivity(new Intent(this,FirebaseActivity.class));
+            startActivity(new Intent(this,PreviewActivity.class));
         }
 
     }
