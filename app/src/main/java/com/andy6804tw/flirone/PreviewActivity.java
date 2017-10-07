@@ -88,7 +88,7 @@ public class PreviewActivity extends Activity implements Device.Delegate, FrameP
     private int capImageType=0;
     private boolean mIsTimerRunning = false;
     private int count=0;//計算秒數
-    private int gap=10;//幾秒拍一張
+    private int gap=2;//幾秒拍一張
 
     //Firebase Storage路徑
     private StorageReference storageReference;
@@ -577,7 +577,7 @@ public class PreviewActivity extends Activity implements Device.Delegate, FrameP
             }
             if(mCurrentTimer>0){
                 mCurrentTimer--;
-                mHideHandler.postDelayed(timerRunnable,1000);
+                mHideHandler.postDelayed(timerRunnable,2000);
                 if(count++%gap==0)
                     imageCaptureRequested=true;//每隔幾秒(gap)拍一次照
             }else{
@@ -992,6 +992,6 @@ public class PreviewActivity extends Activity implements Device.Delegate, FrameP
                     }
                 });
             }
-        }, 2500);
+        }, 1000);
       }
 }
