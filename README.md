@@ -1,8 +1,9 @@
 # 熱像儀Android SDK開發
 
 ## Introduction
-> device : Android Flir one、Samsung Galaxy A7(2016)
->SDK : [Document](https://developer.flir.com/release-announcements/android-sdk-1-0-1-released/)
+> Device : Android Flir one kit、Samsung Galaxy A7(2016)
+
+> SDK : [Document](https://developer.flir.com/release-announcements/android-sdk-1-0-1-released/)
 
 ## Feature
 
