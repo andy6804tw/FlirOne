@@ -6,7 +6,7 @@
 > SDK : [Document](https://developer.flir.com/release-announcements/android-sdk-1-0-1-released/)
 
 ## Feature
-
+1. 偵測熱源與即時顯示溫度
 
 
 
